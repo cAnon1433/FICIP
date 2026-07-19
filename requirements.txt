@@ -1,0 +1,8 @@
+ollama
+pydantic
+faster-whisper
+sounddevice
+numpy
+kokoro>=0.9.4
+torch
+ 
